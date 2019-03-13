@@ -894,6 +894,7 @@ from .pornhub import (
     PornHubUserVideosIE,
 )
 from .pornotube import PornotubeIE
+from .pornvideos import PornVideosIE
 from .pornovoisines import PornoVoisinesIE
 from .pornoxo import PornoXOIE
 from .puhutv import (
